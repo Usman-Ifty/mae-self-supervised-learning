@@ -370,9 +370,9 @@ Built as part of a Generative AI Project, implementing MAE from scratch using pu
 ---
 ## Links
 
-- **GitHub Repository:** [Your GitHub Repo Link]
-- **LinkedIn Post:** [Your LinkedIn Post Link]
-- **Medium Blog:** [Your Medium Blog Link]
+- **GitHub Repository:** https://github.com/Usman-Ifty/mae-self-supervised-learning
+- **LinkedIn Post:** https://www.linkedin.com/posts/usman-awan-a85877359_machinelearning-computervision-deeplearning-ugcPost-7439486823019634688-Y3FR?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFlLnEUBipPDA2NWyCznaKMYKv6JZN-YpeM
+- **Medium Blog:** https://medium.com/@muawan125/i-built-a-masked-autoencoder-from-scratch-on-a-free-gpu-heres-everything-i-learned-f7611514095b
 - **Kaggle:** https://www.kaggle.com/code/usamnifty/masked-autoencoders-mae
 
 ---
